@@ -1,0 +1,9 @@
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\bin\Debug\Ability.exe.config
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\bin\Debug\Ability.exe
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\bin\Debug\Ability.pdb
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\bin\Debug\Ability.xml
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\obj\Debug\Ability.Resources.resources
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\obj\Debug\Ability.vbproj.GenerateResource.Cache
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\obj\Debug\Ability.exe
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\obj\Debug\Ability.xml
+C:\Users\caleb\Documents\GitHub\ability\Ability\Ability\obj\Debug\Ability.pdb
