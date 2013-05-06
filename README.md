@@ -15,18 +15,18 @@ End users:
 1. When prompted, provide the address of the repository your package is in. Here, syntax is KEY:
 
 Okay:
-http://example.com
-http://www.example.com
-example.com
-www.example.com
-example.com/repo1
+- http://example.com
+- http://www.example.com
+- example.com
+- www.example.com
+- example.com/repo1
 
 NOT Okay:
-http://example.com/
-http://www.example.com/
-example.com/
-www.example.com/
-example.com/repo1/packagename.exe
+- http://example.com/
+- http://www.example.com/
+- example.com/
+- www.example.com/
+- example.com/repo1/packagename.exe
 
 2. Provide package name. Syntax here is not as stringent.
 
